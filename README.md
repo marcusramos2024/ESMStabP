@@ -28,4 +28,4 @@ This folder contains the files necessary to run the model locally using a Flask 
 This file is used for training the ESMStabP model. The repository includes four pretrained models that can be used depending on the available input parameters.
 
 ### 5. `Models/`
-This folder contains the output destination of trina.py
+This folder contains the pretrained ESMStabP model and is the output destination of train.py
