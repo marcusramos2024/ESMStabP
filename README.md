@@ -71,7 +71,7 @@ Provides a local user interface to interact with the ESMStabP model. Note that d
 - **Embedding Layer Performance:**
   Layer 33 of ESM2 provided the best results, highlighting the importance of feature selection in leveraging protein language model embeddings.
 
-## Citation
+<!-- ## Citation
 
 If you use this code in your research, please cite:
 
@@ -82,7 +82,7 @@ If you use this code in your research, please cite:
   journal={bioRχiv},
   year={2025}
 }
-```
+``` -->
 
 ## Acknowledgments
 
