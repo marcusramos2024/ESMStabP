@@ -1,6 +1,7 @@
 # ESMStabP: A Regression Model for Protein Thermostability Prediction
 
 **Author:** Marcus Ramos, Robert L. Jernigan, Mesih Kilinc
+
 **Affiliation:** Iowa State University, Ames, IA  
 
 ## Overview
